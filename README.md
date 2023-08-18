@@ -13,6 +13,7 @@ One helpful tester has indicated it works with windowed POE at 1920x1080 within 
 
 ## Setup:
 
+Download the highest version number script on this github repository.
 Edit line 17 of the script to use your chosen dirve and directory.
 Optionally adjust the settings on line 18 and 19 as well.
 
